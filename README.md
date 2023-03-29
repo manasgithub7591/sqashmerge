@@ -1,2 +1,3 @@
 # sqashmerge
 file commit 1st time
+file commit 1st time in dev branch
